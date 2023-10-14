@@ -1871,11 +1871,12 @@ transition: 0.1s;
 
 
 
-     @media only screen and (max-width: 570px) and (min-width: 100px)  {
+ /*     @media only screen and (max-width: 570px) and (min-width: 100px)  { */
             
   
+   @media screen and (min-width: 375px) and (max-width:500px) {
 
-
+    
 
         #section2{
             width: 100vw;
